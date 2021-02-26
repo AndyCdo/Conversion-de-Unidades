@@ -1,0 +1,13 @@
+E:\work\repos\Conversion-de-Unidades\obj\Debug\netcoreapp3.1\Conversion-de-Unidades.csprojAssemblyReference.cache
+E:\work\repos\Conversion-de-Unidades\obj\Debug\netcoreapp3.1\Conversion-de-Unidades.AssemblyInfoInputs.cache
+E:\work\repos\Conversion-de-Unidades\obj\Debug\netcoreapp3.1\Conversion-de-Unidades.AssemblyInfo.cs
+E:\work\repos\Conversion-de-Unidades\obj\Debug\netcoreapp3.1\Conversion-de-Unidades.csproj.CoreCompileInputs.cache
+E:\work\repos\Conversion-de-Unidades\bin\Debug\netcoreapp3.1\Conversion-de-Unidades.exe
+E:\work\repos\Conversion-de-Unidades\bin\Debug\netcoreapp3.1\Conversion-de-Unidades.deps.json
+E:\work\repos\Conversion-de-Unidades\bin\Debug\netcoreapp3.1\Conversion-de-Unidades.runtimeconfig.json
+E:\work\repos\Conversion-de-Unidades\bin\Debug\netcoreapp3.1\Conversion-de-Unidades.runtimeconfig.dev.json
+E:\work\repos\Conversion-de-Unidades\bin\Debug\netcoreapp3.1\Conversion-de-Unidades.dll
+E:\work\repos\Conversion-de-Unidades\bin\Debug\netcoreapp3.1\Conversion-de-Unidades.pdb
+E:\work\repos\Conversion-de-Unidades\obj\Debug\netcoreapp3.1\Conversion-de-Unidades.dll
+E:\work\repos\Conversion-de-Unidades\obj\Debug\netcoreapp3.1\Conversion-de-Unidades.pdb
+E:\work\repos\Conversion-de-Unidades\obj\Debug\netcoreapp3.1\Conversion-de-Unidades.genruntimeconfig.cache
